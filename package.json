@@ -4,7 +4,7 @@
   "main": "lib/index.js",
   "description": "Lightweight update server for Electron apps",
   "scripts": {
-    "dev": "dev",
+    "dev": "npx vercel dev --token=r3096aWWhPs0APXABqKCowHg",
     "test": "xo && jest",
     "precommit": "lint-staged"
   },
